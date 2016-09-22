@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestTimer</string>
+    <string name="notificationTips">You</string>
+</resources>
